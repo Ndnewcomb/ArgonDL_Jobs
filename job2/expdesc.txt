@@ -1,0 +1,1 @@
+2 train 5 valid, roi_size = (64, 64, 64), randSpatialCropd,      train batch_size=1, num_res_units=2, lr = 1e-3, num_epochs = 500

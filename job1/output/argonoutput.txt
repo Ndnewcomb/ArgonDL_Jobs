@@ -1,0 +1,21 @@
+Running on compute node: argon-itf-bx51-02.hpc.
+In directory: /Users/ndnewcomb/DeepLearningMONAI/jobs/job1
+Starting on: Fri Jan 5 18:05:21 CST 2024
+Now it is: Fri Jan 5 18:08:03 CST 2024
+Running on compute node: argon-itf-bx51-02.hpc.
+In directory: /Users/ndnewcomb/DeepLearningMONAI/jobs/job1
+Starting on: Fri Jan 5 18:25:52 CST 2024
+Now it is: Fri Jan 5 18:35:21 CST 2024
+Running on compute node: argon-itf-bx51-02.hpc.
+In directory: /Users/ndnewcomb/DeepLearningMONAI/jobs/job1
+Starting on: Fri Jan 5 18:42:48 CST 2024
+Running on compute node: argon-itf-bx53-10.hpc.
+In directory: /Users/ndnewcomb/DeepLearningMONAI/jobs/job1
+Starting on: Fri Jan 5 18:53:12 CST 2024
+Running on compute node: argon-itf-bx51-02.hpc.
+In directory: /Users/ndnewcomb/DeepLearningMONAI/jobs/job1
+Starting on: Fri Jan 5 18:55:42 CST 2024
+Running on compute node: argon-itf-bx53-10.hpc.
+In directory: /Users/ndnewcomb/DeepLearningMONAI/jobs/job1
+Starting on: Fri Jan 5 18:56:57 CST 2024
+Now it is: Sat Jan 6 03:07:04 CST 2024
